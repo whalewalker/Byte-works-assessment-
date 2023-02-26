@@ -1,0 +1,20 @@
+.bg-color-custom {
+    background-color: #a8d640 !important;
+    border: 2px solid black !important;
+    border-radius: 5rem !important;
+    color: black !important;
+}
+
+body{
+    padding: 0 2rem;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.my-hr {
+    border-top: 1px solid #d9d9d9;
+}
+
+a{
+    color: #232323;
+}
