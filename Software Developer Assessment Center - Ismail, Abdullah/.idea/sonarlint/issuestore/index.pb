@@ -1,0 +1,37 @@
+
+H
+teradata-world-setup.txt,7/4/74ec4f6e4ab2a27b1c21406ec4b58dcc870df521
+D
+client-request-1.txt,c/4/c45c2020630cf94d073262451c7b3e8415da81e5
+a
+1src/com/byteworks/leftRotationAlgorithm/Main.java,2/f/2fdc587db304fdb84e5f67c510cb865056a3798b
+T
+$src/com/byteworks/teradata/Node.java,b/5/b5a0e668bcb9dd51855f4b16fce7d9e9e0cbab4f
+T
+$src/com/byteworks/teradata/Main.java,2/8/28a470d263dfbf9e4381acd7bcd2a15ad6a30d76
+Y
+)src/com/byteworks/teradata/CustomMap.java,c/d/cd77af49f69c3b8a9a601d39af3f5e9ee1410732
+U
+%src/com/byteworks/teradata/Graph.java,8/0/80eb7bff73800190e2d9863ae93b7c159e291422
+E
+client-response-1.txt,d/a/da59f48036af1aae63bc2ac47d8a5b333c1eeacb
+f
+6src/com/byteworks/teradata/ClientRequestProcessor.java,9/d/9dfc4ef1c1cd1369a61884fcc5074fc7d028fa6a
+Z
+*src/com/byteworks/teradata/CustomList.java,6/f/6f8e0111f33a33f5f1693b8ad64241936da218c4
+V
+&src/com/byteworks/meal/LinkedList.java,5/b/5bceff968b9c21f7265dbb44e2172993a850e4e1
+Z
+*src/com/byteworks/meal/LinkedListImpl.java,8/e/8e51f0ec490bc369105770ec14e49b6a865fcb7e
+P
+ src/com/byteworks/meal/Main.java,8/9/896a8790fb81d6ce271755522f50c33bf7a01000
+P
+ src/com/byteworks/meal/Meal.java,f/4/f443b018dd8da41a27aaf5d3625e35ce88f1a6c6
+T
+$src/com/byteworks/meal/MealList.java,b/c/bc941e715b70d55e7111832e6d1969b5ae024bcb
+P
+ src/com/byteworks/meal/Node.java,6/8/68e2bc978146cafa9385834ed73ac33a2b874203
+\
+,src/com/byteworks/teradata/GraphBuilder.java,e/1/e1fb4297f2537cd41a8f9a7aa353d9622e66cd2f
+r
+Bsrc/com/byteworks/leftRotationAlgorithm/LeftRotationAlgorithm.java,1/6/1611391e2b7fe2608b2facb27ab2072ca82ec071
